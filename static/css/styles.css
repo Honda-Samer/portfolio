@@ -1,0 +1,86 @@
+body {
+  font-family: 'Montserrat';
+  font-size: 1.5rem;
+  margin: 0;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+/* Headings */
+
+.big-heading {
+  font-size: 3.5rem;
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* Sections */
+
+.colored_section {
+  background-color: #222831;
+  color: #00adb5;
+  padding: 10% 5%;
+}
+
+.white_section {
+  background-color: #FFF;
+  color: #393e46;
+  padding: 10% 5%;
+}
+
+/* Title Section */
+
+#title {
+  font-family: 'Sacramento';
+  font-weight: 700;
+  padding: 0 0 20%;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  font-family: 'Montserrat';
+  padding: 3% 2% 15%;
+}
+
+/* About Section */
+
+#about img {
+  width: 50%;
+}
+
+/* Skills Section */
+
+#skills {
+  text-align: left;
+  padding: 20% 5%;
+}
+
+/* Projects Section */
+
+#projects {
+  padding: 5%;
+  text-align: left;
+}
+
+.project-cards {
+  padding: 5%;
+}
+
+.card {
+  background-color: #FFF;
+}
+
+/* Contact Section */
